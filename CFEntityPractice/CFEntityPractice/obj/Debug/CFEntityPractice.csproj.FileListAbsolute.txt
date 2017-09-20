@@ -1,0 +1,9 @@
+C:\Users\Ian\documents\visual studio 2017\Projects\CFEntityPractice\CFEntityPractice\bin\Debug\CFEntityPractice.exe.config
+C:\Users\Ian\documents\visual studio 2017\Projects\CFEntityPractice\CFEntityPractice\bin\Debug\CFEntityPractice.exe
+C:\Users\Ian\documents\visual studio 2017\Projects\CFEntityPractice\CFEntityPractice\bin\Debug\CFEntityPractice.pdb
+C:\Users\Ian\documents\visual studio 2017\Projects\CFEntityPractice\CFEntityPractice\bin\Debug\EntityFramework.dll
+C:\Users\Ian\documents\visual studio 2017\Projects\CFEntityPractice\CFEntityPractice\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ian\documents\visual studio 2017\Projects\CFEntityPractice\CFEntityPractice\bin\Debug\EntityFramework.xml
+C:\Users\Ian\documents\visual studio 2017\Projects\CFEntityPractice\CFEntityPractice\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ian\documents\visual studio 2017\Projects\CFEntityPractice\CFEntityPractice\obj\Debug\CFEntityPractice.exe
+C:\Users\Ian\documents\visual studio 2017\Projects\CFEntityPractice\CFEntityPractice\obj\Debug\CFEntityPractice.pdb

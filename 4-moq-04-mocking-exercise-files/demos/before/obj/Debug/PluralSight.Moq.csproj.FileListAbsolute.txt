@@ -1,0 +1,10 @@
+C:\Users\Ian\Desktop\PLURALSIGHT\mocking-with-moq\4-moq-04-mocking-exercise-files\demos\before\bin\Debug\PluralSight.Moq.dll
+C:\Users\Ian\Desktop\PLURALSIGHT\mocking-with-moq\4-moq-04-mocking-exercise-files\demos\before\bin\Debug\PluralSight.Moq.pdb
+C:\Users\Ian\Desktop\PLURALSIGHT\mocking-with-moq\4-moq-04-mocking-exercise-files\demos\before\bin\Debug\Moq.dll
+C:\Users\Ian\Desktop\PLURALSIGHT\mocking-with-moq\4-moq-04-mocking-exercise-files\demos\before\bin\Debug\nunit.framework.dll
+C:\Users\Ian\Desktop\PLURALSIGHT\mocking-with-moq\4-moq-04-mocking-exercise-files\demos\before\bin\Debug\Moq.pdb
+C:\Users\Ian\Desktop\PLURALSIGHT\mocking-with-moq\4-moq-04-mocking-exercise-files\demos\before\bin\Debug\Moq.xml
+C:\Users\Ian\Desktop\PLURALSIGHT\mocking-with-moq\4-moq-04-mocking-exercise-files\demos\before\bin\Debug\nunit.framework.xml
+C:\Users\Ian\Desktop\PLURALSIGHT\mocking-with-moq\4-moq-04-mocking-exercise-files\demos\before\obj\Debug\PluralSight.Moq.csprojResolveAssemblyReference.cache
+C:\Users\Ian\Desktop\PLURALSIGHT\mocking-with-moq\4-moq-04-mocking-exercise-files\demos\before\obj\Debug\PluralSight.Moq.dll
+C:\Users\Ian\Desktop\PLURALSIGHT\mocking-with-moq\4-moq-04-mocking-exercise-files\demos\before\obj\Debug\PluralSight.Moq.pdb

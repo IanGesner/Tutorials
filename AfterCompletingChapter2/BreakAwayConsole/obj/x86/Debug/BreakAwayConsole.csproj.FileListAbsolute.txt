@@ -1,0 +1,13 @@
+C:\Users\Ian\Desktop\Tutorials\AfterCompletingChapter2\BreakAwayConsole\bin\Debug\BreakAwayConsole.exe.config
+C:\Users\Ian\Desktop\Tutorials\AfterCompletingChapter2\BreakAwayConsole\bin\Debug\BreakAwayConsole.exe
+C:\Users\Ian\Desktop\Tutorials\AfterCompletingChapter2\BreakAwayConsole\bin\Debug\BreakAwayConsole.pdb
+C:\Users\Ian\Desktop\Tutorials\AfterCompletingChapter2\BreakAwayConsole\bin\Debug\DataAccess.dll
+C:\Users\Ian\Desktop\Tutorials\AfterCompletingChapter2\BreakAwayConsole\bin\Debug\EntityFramework.dll
+C:\Users\Ian\Desktop\Tutorials\AfterCompletingChapter2\BreakAwayConsole\bin\Debug\Model.dll
+C:\Users\Ian\Desktop\Tutorials\AfterCompletingChapter2\BreakAwayConsole\bin\Debug\DataAccess.pdb
+C:\Users\Ian\Desktop\Tutorials\AfterCompletingChapter2\BreakAwayConsole\bin\Debug\Model.pdb
+C:\Users\Ian\Desktop\Tutorials\AfterCompletingChapter2\BreakAwayConsole\bin\Debug\Model.dll.config
+C:\Users\Ian\Desktop\Tutorials\AfterCompletingChapter2\BreakAwayConsole\bin\Debug\EntityFramework.xml
+C:\Users\Ian\Desktop\Tutorials\AfterCompletingChapter2\BreakAwayConsole\obj\x86\Debug\BreakAwayConsole.csprojResolveAssemblyReference.cache
+C:\Users\Ian\Desktop\Tutorials\AfterCompletingChapter2\BreakAwayConsole\obj\x86\Debug\BreakAwayConsole.exe
+C:\Users\Ian\Desktop\Tutorials\AfterCompletingChapter2\BreakAwayConsole\obj\x86\Debug\BreakAwayConsole.pdb

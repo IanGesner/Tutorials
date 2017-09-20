@@ -1,0 +1,10 @@
+C:\Users\Ian\documents\visual studio 2017\Projects\CFEntityPractice\CodeFirst_FluentAPI_Examples\obj\Debug\CodeFirst_FluentAPI_Examples.csprojResolveAssemblyReference.cache
+C:\Users\Ian\documents\visual studio 2017\Projects\CFEntityPractice\CodeFirst_FluentAPI_Examples\bin\Debug\CodeFirst_FluentAPI_Examples.exe.config
+C:\Users\Ian\documents\visual studio 2017\Projects\CFEntityPractice\CodeFirst_FluentAPI_Examples\bin\Debug\CodeFirst_FluentAPI_Examples.exe
+C:\Users\Ian\documents\visual studio 2017\Projects\CFEntityPractice\CodeFirst_FluentAPI_Examples\bin\Debug\CodeFirst_FluentAPI_Examples.pdb
+C:\Users\Ian\documents\visual studio 2017\Projects\CFEntityPractice\CodeFirst_FluentAPI_Examples\bin\Debug\EntityFramework.dll
+C:\Users\Ian\documents\visual studio 2017\Projects\CFEntityPractice\CodeFirst_FluentAPI_Examples\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ian\documents\visual studio 2017\Projects\CFEntityPractice\CodeFirst_FluentAPI_Examples\bin\Debug\EntityFramework.xml
+C:\Users\Ian\documents\visual studio 2017\Projects\CFEntityPractice\CodeFirst_FluentAPI_Examples\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ian\documents\visual studio 2017\Projects\CFEntityPractice\CodeFirst_FluentAPI_Examples\obj\Debug\CodeFirst_FluentAPI_Examples.exe
+C:\Users\Ian\documents\visual studio 2017\Projects\CFEntityPractice\CodeFirst_FluentAPI_Examples\obj\Debug\CodeFirst_FluentAPI_Examples.pdb

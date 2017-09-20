@@ -1,0 +1,10 @@
+C:\Users\Ian\Desktop\Tutorials\AfterCompletingChapter2\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\Ian\Desktop\Tutorials\AfterCompletingChapter2\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\Ian\Desktop\Tutorials\AfterCompletingChapter2\DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\Ian\Desktop\Tutorials\AfterCompletingChapter2\DataAccess\bin\Debug\Model.dll
+C:\Users\Ian\Desktop\Tutorials\AfterCompletingChapter2\DataAccess\bin\Debug\Model.pdb
+C:\Users\Ian\Desktop\Tutorials\AfterCompletingChapter2\DataAccess\bin\Debug\Model.dll.config
+C:\Users\Ian\Desktop\Tutorials\AfterCompletingChapter2\DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\Ian\Desktop\Tutorials\AfterCompletingChapter2\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\Ian\Desktop\Tutorials\AfterCompletingChapter2\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\Ian\Desktop\Tutorials\AfterCompletingChapter2\DataAccess\obj\Debug\DataAccess.pdb
