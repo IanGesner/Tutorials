@@ -1,0 +1,88 @@
+﻿@model IEnumerable<Lab_01_Ian_Gesner.Models.Book>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Title)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Author)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Title)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Author)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.BookID }) |
+            @Html.ActionLink("Details", "Details", new { id=item.BookID }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.BookID })
+        </td>
+    </tr>
+}
+</table>
+
+<h2>Other users that own one of the same books:</h2>
+
+<table class="table">
+    @foreach (string email in (List<string>)ViewBag.OtherUsers)
+    {
+        <tr>
+            <td>
+                @email
+            </td>
+        </tr>
+    }
+</table>
+
+<h2>All books added by all users:</h2>
+
+<table class="table">
+    @foreach (string book in (List<string>)ViewBag.AllBooks)
+    {
+        <tr>
+            <td onclick="myFunction()">
+                @book
+            </td>
+        </tr>
+    }
+</table>
+
+@section Scripts {
+
+    <script>
+        //function myFunction() {
+        //    alert("Book created");
+        //}
+
+
+            function myFunction() {
+                alert("This is a book");
+            }
+        //$(document).ready(function () {
+        //    $(".btn1").click(function () {
+        //        $("p").fadeOut()
+        //    });
+        //    $(".btn2").click(function () {
+        //        $("p").fadeIn();
+        //    });
+        //});
+    </script>
+    @Scripts.Render("~/bundles/jqueryval")
+}
